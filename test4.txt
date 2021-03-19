@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 06A2-0F54
+
+ Directory of C:\Users\MAGULURI\Desktop\prasanna
+
+19-03-2021  10:08    <DIR>          .
+19-03-2021  10:08    <DIR>          ..
+19-03-2021  10:11               390 index.html
+19-03-2021  10:11               348 test3.txt
+19-03-2021  10:08                 0 test4.txt
+               3 File(s)            738 bytes
+               2 Dir(s)  904,591,478,784 bytes free
